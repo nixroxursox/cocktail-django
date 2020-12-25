@@ -1,2 +1,0 @@
-# cocktail-django
-# cocktail-django
